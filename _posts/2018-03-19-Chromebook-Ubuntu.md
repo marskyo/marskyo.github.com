@@ -6,13 +6,13 @@ tags:
   - Essay
 ---
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/6wk87I7K4wugvivo4lU7fLs8JybrRAHL8ueGnTh7.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/1.jpg)
 
 一直想试试Chromebook，闲鱼淘了个二手东芝13寸Chromebook，IPS高清屏，显示效果不错，整体机身颜值不低，但是塑料的，硬件虽然配置垃圾，但是运行速度很快 。后来看到能装Ubuntu系统，又捣鼓的装了一个，网上看了很多教程，但是没有一个教程适合我这种新手从头到尾一次能解决全部问题的，需要多个教程结合查看，所以特整理一篇适合自己的综合教程，免得日后再忘记怎么弄。
 
 ##### 第一步：备份资料
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/Efbu0TEx4NWF1yFs2zkziYl4KO1Im9Hp2RJgqMQs.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/2.jpg)
 
 安装Ubuntu系统需要重置Chromebook笔记本，数据将会被完全清除，所以本地有数据的先备份好，不过Chromebook这玩意本地硬盘本来就没多大，大多数都是云端应用，所以这个应该不是太大的问题，备份也很快。
 
@@ -20,41 +20,41 @@ tags:
 
 开机时同时按下**Refresh（刷新）**和**Esc（退出）**键，然后按**Power（电源）**键，都是在最上面那一排，这会进入Chromebook到Recovery恢复模式，提示系统损坏，如图：
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/T2fJ6h0yBj8SWmMR9nY77Wp8QNCK54H0J7vzN9e2.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/3.jpg)
 
 按**Ctrl+D**继续。
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/jKaNtfcviTrUCNKOdJtLDtsokXbiIsSGh6Jm8iYo.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/4.jpg)
 
 **回车Enter**，进入开发者模式，如果没有如下画面按照上面步骤重新操作。
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/tYO4W4Eqwqo9yshbpnLswUtmE3Pk2Jc85jpqyOG5.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/5.jpg)
 
 等待一下，开始安装Developer开发者模式的Chrome OS。
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/u976gxGDuuUouWPDae3tKPxHGujHVP6bilpzqFH7.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/6.jpg)
 
 安装完成后进入Developer开发者模式，这可能需要大约10分钟的时间。
 
 重启再次开机的时候一个红色感叹号将会出现，可以等待30秒左右的时间让设备自动启动到桌面，或者可以按**Ctrl+D**键直接进入系统。（注意：以后每次开机要等待或按**Ctrl+D**进入系统。）
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/lYVMwz8sWaJLkI7SMN5B9UPYOPbSaj84G0XNpyyn.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/7.jpg)
 
 （**提示：**Ubuntu在Chromebook上的安装是临时的，如果想删除，只要开机时候恢复Chromebook笔记本到出厂状态便可，按**空格**然后按提示操作**回车**恢复正常模式即可，如果有本地文件还是要先备份。）
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/LGdhCu6jpx6GHH8uJrn0dC5A2JBIowa9kaVi1oyn.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/8.jpg)
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/3FdvVrtMNA1CGX5Epq0heah88iLmbD8n8JOViwTb.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/9.jpg)
 
 不管Developer开发者模式还是正常模式，重置系统后都要先翻墙联网，才能完成第一次登录。
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/NKl7man6f9V07AjK14trppUhkxva5q4imkXJU9s9.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/10.jpg)
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/2W4W45uwUAqb8OB383FV37Hhec9VBj8J6B2aMyXp.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/11.jpg)
 
 在输入邮箱时候必须翻墙，不然输入的密码会一直提示错误，不能登录系统，只能用访客模式登录，登录后等待Chrome OS自动更新和同步，进入系统。
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/aXsse4xXYJdbtL0rFowYfIvc3YnXRnbvTU1B5yYE.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/12.png)
 
 ##### 第三步：利用Crouton安装Ubuntu
 
@@ -66,21 +66,21 @@ tags:
 
 - 先输入 `shell`， 然后在输入 `sudo sh ~/Downloads/crouton -t xfce`。
 
-   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/ErLVgQ0od0k2TBD4913nUi8j0GCcSUhiGnMmLD1T.jpg)
+   ![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/13.jpg)
 
 - 现在Chromebook开始安装Ubuntu，这可能需要10到30分钟的时间。
 
-   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/bsC590Ahu01mSdkR1nI3eueMQaKtkLQjfYjgzv7E.jpg)
+   ![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/14.png)
 
 - 一旦安装完成，需要为Ubuntu设置一个用户名和密码。
 
-   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/45Oa9vjIpCTjCCOJ5fzhHHMqXiJsXCOwUXm29adv.jpg)
+   ![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/15.png)
 
 - 然后通过下面命令行来开始运行Ubuntu：`sudo startxfce4`（**提示：**如果Chrome浏览器Crosh终端重启后，还是要先输入 `shell`，再输入上述命令进入Ubuntu系统）。
 
-   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/YvemIsA6eBTPlSm09Muerpwl7Cn63wkhCwqBTATE.jpg)
+   ![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/16.png)
 
-   ![](http://lc-ec5pgDDk.cn-n1.lcfile.com/c5oDFDWaEM9eIXEIpJmgBPQphK8cB9LdklLGQ0zT.jpg)
+   ![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/17.jpg)
 
 
 - 虽然是不同系统之间的切换，但Chromebook不需要重新启动。
@@ -149,7 +149,7 @@ tags:
 
 第三，退出Ubuntu，重新登录，系统语言就变成简体中文了。设置中的语言选项启动时可能提示错误，点开明细，如果愿意可以将缺失的软件用`sudo apt-get install XXX`安装上。
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/QIWU4v2IIGPWO8xnaQlIiVnq7aIk6QcRK8RUn28n.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/18.png)
 
 ##### 第五步：安装常用软件
 
@@ -175,7 +175,7 @@ tags:
 
 直接在终端执行命令：`Sudo apt-get install firefox`
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/oRt8fBPVxiacHO4jM8JeyWzl5i5NGFqUWrQgBnkl.jpg)
+![](/IMG/2018/2018-03-19-Chromebook-Ubuntu/19.jpg)
 
 Ububtu还不是很明白，很多命令不是很懂，只是先记录一下怎么在Chromebook上安装，纯属折腾。
 
