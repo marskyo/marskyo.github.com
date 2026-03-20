@@ -11,6 +11,6 @@ tags:
 
 还没来得及全部修完，暂时先放上几张，希望以后满意老爸的摄影技术。
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/CkWUseWAFdTIEEPs8Kx8lbjwN84UfBI8EB8jXTMc.jpg)
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/bXTYgoMVPYRS9EQLRwOsxjw3IKOxrP7560fmfpIN.jpg) 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/1D4H2E87H4qN5h2O4CtTGyteonSUzdNjGiV05Yar.jpg)
+![](/IMG/2015/2015-01-18-My-Little-Princess/1.jpg)
+![](/IMG/2015/2015-01-18-My-Little-Princess/2.jpg)
+![](/IMG/2015/2015-01-18-My-Little-Princess/3.jpg)

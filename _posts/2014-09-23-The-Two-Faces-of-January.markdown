@@ -5,7 +5,7 @@ tags:
   - Movie
 ---
 
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/8lP0XW4nLD2B77l6rssuVotNjgHG76700NQABSek.jpg)
+![](/IMG/2014/2014-09-23-The-Two-Faces-of-January/1.jpg)
 
 自作孽不可活，一步错步步错。Chester因为诈骗客户的钱而遭追杀，而后在酒店失手杀了私家侦探，因为妒忌Rydal吸引自己的老婆Colette而对其下手，并因此引发与老婆的争执造成Colette掉下台阶摔死，在机场又设计陷害Rydal被捕，“你不该陷害我是杀害她的凶手”，Rydal给Chester的电话里已经提醒了Chester自己犯的错误，最终Chester命丧土耳其。
 
@@ -24,5 +24,3 @@ Chester死之前为什么帮Rydal开罪？
 这个问题值得思索，是两个骗子最后惜惜相惜？在同类面前不必伪装也伪装不了，反而彼此之间可能还有一丝真诚。还是因为他们都真实的爱上了一个女人？Chester虽然忌恨Rydal，但是最终被他的爱感动。抑或人之将死，其言也善？还有Chester死之前那句“让你失望了”是什么意思？没有虚伪行骗到底还是没有尽到一个假父亲的职责？
 
 影片的最后Rydal应该已将Chester作为一位父亲对待，弥补了缺席父亲葬礼的遗憾，也将至爱Colette还给了Chester。
-
-

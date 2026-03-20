@@ -6,7 +6,7 @@ comments: true
 tags: 
     - Shoot
 ---
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/Uwe9it1LD29CG0rQUJMJgApAfzFkF0STkd4Rj0C3.jpg)
+![](/IMG/2015/2015-11-11-yicijiuhao/1.jpg)
 
 前阵子也用当下热门的<一次就好>剪了两部婚礼，感觉这首歌还是蛮适合婚礼的。
 <center>

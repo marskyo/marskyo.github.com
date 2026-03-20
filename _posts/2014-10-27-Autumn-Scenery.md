@@ -5,7 +5,7 @@ comments: true
 tags: 
     - Outdoor
 ---
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/BAgeVjVGHNWXXVVXNDtMd9GtVIlzyeuSxKpMnUmA.jpg)
+![](/IMG/2014/2014-10-27-Autumn-Scenery/1.jpg)
 
 **<center>秋色</center>**
 

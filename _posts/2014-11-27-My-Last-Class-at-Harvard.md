@@ -5,7 +5,7 @@ comments: true
 tags: 
     - Read
 ---
-![](http://lc-ec5pgDDk.cn-n1.lcfile.com/UcJjuztPnwf69az8UubXB4tNURcclQbXA2pS5sRs.jpg)
+![](/IMG/2014/2014-11-27-My-Last-Class-at-Harvard/1.jpg)
 
 忘记了当初因为什么原因买的这本书，花了两三天时间看完，开始以为是人生励志，心灵鸡汤式的，实际上这本书的侧重点在人生的职场规划。
 
@@ -60,7 +60,6 @@ tags:
 >世界上根本不存在纯粹的失败，唯一的纯粹的失败就是死亡，或许这种说法也不对，毕竟还有天堂和灵魂之说。   p217
 
 >失败会播下将来成功的种子，而成功也携带着失败的种子。     p226
-
 
 
 
